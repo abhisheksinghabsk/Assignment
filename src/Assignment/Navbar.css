@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons {
+    display: flex;
+}
+
+.search-bar {
+    display: flex;
+}
+
+.last-icons {
+    display: flex;
+}

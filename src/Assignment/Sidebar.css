@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    border: none;
+}
+
+.sidebar {
+    background-color: #5C5C5C;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100;
+    display: block;
+
+}
